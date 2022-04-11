@@ -1,0 +1,19 @@
+css elements used:
+margin
+padding
+font size
+font family
+font weight
+color
+z index
+position
+text decoration
+overflow
+justify content
+transition
+cursor
+flex direction
+object fit
+text transform
+opacity
+gap
